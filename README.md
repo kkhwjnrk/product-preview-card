@@ -6,7 +6,7 @@ I implemented a mobile-first design approach, ensuring the design was optimized 
 
 ### Design 🎨
 
-![Design preview](./design/desktop-preview.png)
+![Design preview](./design/desktop-preview.jpg)
 
 ### Live Site 🔗
 
@@ -18,5 +18,8 @@ You can view my Frontend Mentor profile at [👨‍💻 @kkhwjnrk](https://www.f
 
 ### Preview 👀
 
-![Mobile preview](./preview/mobile-preview.png)
+<div align="center">
+  <img src="./preview/mobile-preview.png" alt="Mobile Preview">
+</div>
+
 ![Desktop preview](./preview/desktop-preview.png)
